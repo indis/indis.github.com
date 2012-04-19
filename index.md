@@ -55,6 +55,9 @@ Why, here you go ;)
 
 ### Build Status
 
+#### Integration Tests (indis meta gem)
+[![Build Status](https://secure.travis-ci.org/indis/indis.png?branch=master)](http://travis-ci.org/indis/indis)
+
 #### Core
 [![Build Status](https://secure.travis-ci.org/indis/indis-core.png?branch=master)](http://travis-ci.org/indis/indis-core)
 
