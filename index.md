@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Indis
-tagline: The intelligent disassembly framework
+tagline: Re-creating the world one bit at a time
 ---
 {% include JB/setup %}
 
